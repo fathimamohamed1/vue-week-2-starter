@@ -2,3 +2,18 @@
     max-height: 250px;
     overflow: scroll;
 }
+.Sketching
+{
+    color: lavenderblush;
+    background-color: black;
+}
+.Singing
+{
+    color: White;
+    background-color: darkslategray;
+}
+.Painting
+{
+    color:black;
+    background-color: papayawhip;
+}
